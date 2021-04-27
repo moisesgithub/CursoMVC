@@ -42,8 +42,9 @@
 * Solution -> Propriedades -> Projeto de Inicialização
 * Marcar Vários Projetos de Inicialização -> 
 * Marcar Caixa `Iniciar` para os dois -> `Aplicar` -> `Ok`
-* Antes de Compilar Solução e Iniciar no arquivo `Startup` dos dois projetos e
+* Antes de Compilar Solução e Iniciar, abrir o arquivo `Startup` dos dois projetos e
+* para habilitar as dependências do `EntityFramework`
 * implementar esse código logo abaixo de `services.AddControllers();`
-* inserir `services.AddDbContext<Context>();` assim os dois projetos irão conversar entre eles.
+* inserir `services.AddDbContext<Context>();`
 
 ### Obs: Ainda falta concluir o projeto!
