@@ -42,5 +42,8 @@
 * Solution -> Propriedades -> Projeto de Inicialização
 * Marcar Vários Projetos de Inicialização -> 
 * Marcar Caixa `Iniciar` para os dois -> `Aplicar` -> `Ok`
+* Antes de Compilar Solução e Iniciar no arquivo `Startup` dos dois projetos e
+* implementar esse código logo abaixo de `services.AddControllers();`
+* inserir `services.AddDbContext<Context>();` assim os dois projetos irão conversar entre eles.
 
 ### Obs: Ainda falta concluir o projeto!
