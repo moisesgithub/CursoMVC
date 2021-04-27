@@ -1,7 +1,7 @@
 # BootCamp LocalizaLabs .NET by https://digitalinnovation.one
 ## _Criando e testando uma aplicação ASP.NET API e publicando na Cloud_
 
-- _Para praticar e fixar os conceitos de como criar uma API usando VSCommunity_
+- _Para praticar e fixar os conceitos de como criar uma API usando CSharp no VSCommunity_
 - _Fiz um passo a passo de como fazer nesse curso_
 - _Aberto a sugestões para melhorar o conceito!_
 
@@ -42,3 +42,5 @@
 * Solution -> Propriedades -> Projeto de Inicialização
 * Marcar Vários Projetos de Inicialização -> 
 * Marcar Caixa `Iniciar` para os dois -> `Aplicar` -> `Ok`
+
+### Obs: Ainda falta concluir o projeto!
