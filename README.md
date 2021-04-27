@@ -1,8 +1,12 @@
-# BootCamp LocalizaLabs .NET Developer
-## _Criando um App Web ASP.NET Core API_
+# BootCamp LocalizaLabs .NET by https://digitalinnovation.one
+## _Criando e testando uma aplicação ASP.NET API e publicando na Cloud_
 
-Para praticar e fixar os conceitos de como criar uma API usando .NET.
-Fiz um passo a passo de como fazer nesse curso!
+- _Para praticar e fixar os conceitos de como criar uma API usando VSCommunity_
+- _Fiz um passo a passo de como fazer nesse curso_
+- _Aberto a sugestões para melhorar o conceito!_
+
+### Adicionando Projeto API
+
 * Com uma solução já aberto do MVC que está neste repositório.
 * Vamos clicar com o botão direito do mouse em cima da solução CursoMVC
 * Adicionar novo projeto e escolher API Web do ASP.NET Core -> próximo -> nome do projeto Ex.`NomeAPI` -> criar
