@@ -1,5 +1,5 @@
-# BootCamp LocalizaLabs .NET by https://digitalinnovation.one
-## _Criando e testando uma aplicação ASP.NET API e publicando na Cloud_
+# _Criando e testando uma aplicação ASP.NET API e publicando na Cloud_
+## by https://digitalinnovation.one
 
 - _Para praticar e fixar os conceitos de como criar uma API usando CSharp no VSCommunity_
 - _Fiz um passo a passo de como fazer nesse curso_
