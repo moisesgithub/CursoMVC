@@ -46,5 +46,3 @@
 * para habilitar as dependências do `EntityFramework`
 * implementar esse código logo abaixo de `services.AddControllers();`
 * inserir `services.AddDbContext<Context>();`
-
-### Obs: Ainda falta concluir o projeto!
